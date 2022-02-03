@@ -1,0 +1,12 @@
+.num1{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  position: fixed;
+}
+
+.num2{
+  width: 200px;
+  height: 200px;
+  background-color: orange;
+}
